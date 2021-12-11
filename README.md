@@ -36,3 +36,7 @@ On your browser, access: http://localhost:your_port/graphiql
 You are going to see something like this:
 
 ![GraphiQL](public/screenshot.png)
+
+Open the ***app/graphql/types/query_type.rb*** file.
+In this file we have a test_field example you can query
+in GraphiQL just like in the image above.
